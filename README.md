@@ -19,7 +19,7 @@ I'll try to respond as soon as I can get to it. if you have any further question
 
 If you have any technical problems with Git or GitHub, rather than this project specifically, [ask ![GitHub](octicons/gif/logo-github_mega.gif) Support](https://github.com/contact) directly.
 
-### Read any "closed" bugs[![Bug Icon (Mega)](octicons/gif/bug_mega.gif)](../../issues?sort=created&direction=desc&state=closed&page=1&q=Bug) or other feedback[![Discussion Icon (Mega)](octicons/gif/comment-discussion_mega.gif)](../../issues?sort=created&direction=desc&state=closed&page=1&q=Q%20Feedback)
+### Read any "closed" bugs[![Bug Icon (Mega)](octicons/gif/bug_mega.gif)](../../issues?sort=created&direction=desc&state=closed&page=1&q=Bug) or other feedback[![Discussion Icon (Mega)](octicons/gif/comment-discussion_mega.gif)](../../issues?sort=created&direction=desc&state=closed&page=1&q=Feedback)
 Check out the [closed **issue**s![Info Icon](octicons/gif/info.gif)](../../issues?sort=created&direction=desc&state=closed&page=1)
 filter on this repository to browse issues I've addressed in the past. Feel free to dig
 into some of the older threads!
