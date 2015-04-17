@@ -12,7 +12,7 @@ This project was initially "forked"[![Fork Project Icon](octicons/gif/repo-forke
 
 Feel free to delete this top section of this file in your own fork[![Fork Project Icon](octicons/gif/repo-forked.gif)](../../fork).
 
-### Ask a question[![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues/new?title=Q%3A%20&label=question), give feedback[![Comment Icon (Mega)](octicons/gif/comment_mega.gif)](../../issues/new?title=Feedback%3A%20&label=feedback) or report a bug[![Bug Icon (Mega)](octicons/gif/bug_mega.gif)](../../issues/new?title=Bug%3A%20&label=bug)
+### Ask a question[![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues/new?title=Q%3A%20&labels=question), give feedback[![Comment Icon (Mega)](octicons/gif/comment_mega.gif)](../../issues/new?title=Feedback%3A%20&labels=feedback) or report a bug[![Bug Icon (Mega)](octicons/gif/bug_mega.gif)](../../issues/new?title=Bug%3A%20&labels=bug)
 Please [create a new **issue**![Info Icon](octicons/gif/info.gif)](../../issues/new) on this project.
 
 I'll try to respond as soon as I can get to it. if you have any further questions just respond in the thread created and I'll get back to you soon. Feel free to ask a question on any old issue too, even if you didn't create the issue and even if it is marked as closed.
