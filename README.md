@@ -36,5 +36,5 @@ You can use this "emoji"[:floppy_disk:](../../archive/master.zip) or this icon[!
 
   You can choose to "go old school" and just [download![Official Download Icon](octicons/gif/cloud-download.gif)](../../archive/master.zip), modify and then [send me the modifications via e-mail![email icon](octicons/gif/mail.gif)](../../issues/new), which you can do by [telling me your e-mail address![email icon](octicons/gif/mail.gif)](../../issues/new). The GitHub system will send me an e-mail, then I'll reply to the address you provide, so you know where to send the files. Of course, for your fork of the project, you can just edit the link that says "send me the modifications via e-mail" with [&lt;your@address.com&gt;](<your@address.com>), remembering to include the less than (&lt;) and greater than (&gt;) symbols around your actual address.
 
-## Link to other repos by this author
-You can direct readers to your page, listing all your repositories by [linking this](../../../), rather than [hardcoding that link](http://github.com/MPagel).
+## Link to other repos by this author[![GitHub TM](octicons/gif/mark-github_mega.gif)](../../../)
+You can direct readers to your page, listing all your repositories by using [relative links![GitHub TM](octicons/gif/mark-github.gif)](../../../), rather than [hardcoding it![GitHub TM](octicons/gif/mark-github.gif)](http://github.com/MPagel). Or you can just link to [this project![GitHub TM](octicons/gif/mark-github.gif)](../../).
