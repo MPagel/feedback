@@ -19,7 +19,7 @@ Please [create a new **issue**![Info Icon](octicons/gif/info.gif)](../../issues/
 
 2 [![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues/new?utf8=%E2%9C%93&title=123&body=456&labels[]=&labels[]=invalid&milestone_title=)
 
-3 [![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues/new?utf8=%E2%9C%93&authenticity_token=blah&issue[title]=123&issue[body]=456&issue[labels][]=&issue[labels][]=invalid&milestone_title=)
+3 [![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues?utf8=%E2%9C%93&authenticity_token=blah&issue[title]=123&issue[body]=456&issue[labels][]=&issue[labels][]=invalid&milestone_title=)
 
 I'll try to respond as soon as I can get to it. if you have any further questions just respond in the thread created and I'll get back to you soon. Feel free to ask a question on any old issue too, even if you didn't create the issue and even if it is marked as closed.
 
