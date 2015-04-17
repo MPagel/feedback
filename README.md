@@ -1,7 +1,7 @@
 # A bit about this project repository
 This project repository is intended to provide a "skeleton" for you, as a project creator, to provide a more friendly and familiar online experience for the typical end-user, allowing them to simply follow links in your ReadMe.md file to the important stuff. For users previously unfamiliar with GitHub specifically or version tracking in general, simply navigating the page to download the current version of your project or to submit a bug report is difficult.
 
-This project was initially "forked" from http://github.com/holman/feedback, but it has evolved markedly from that point, to the point where most of this content was created by http://github.com/MPagel. The advantages of this project over the parent project can be summed up in the following list.
+This project was initially "forked"[![Fork Project Icon](octicons/gif/repo-forked.gif)](../../fork) from http://github.com/holman/feedback, but it has evolved markedly from that point, to the point where most of this content was created by http://github.com/MPagel. The advantages of this project over the parent project can be summed up in the following list.
 
 1. I use relative links in these descriptions whereever possible.
 1. I use a combination of the [official ![GitHub](octicons/gif/logo-github_mega.gif) icons](http://octicons.github.com/) and helpful text to provide the end-user with exposure to the navigation icons they can expect on other GitHub pages that DON'T use this project as a base, while at the same time telling them what the little icon they're clicking on actually **means**.
@@ -25,13 +25,13 @@ into some of the older threads!
 ## See all feedback[![Discussion Icon (Mega)](octicons/gif/comment-discussion_mega.gif)](../../issues?q=is%3Aissue)
 Open or closed, bug or kind words, you can find it [here![Discussion Icon](octicons/gif/comment.gif)](../../issues?q=is%3Aissue).
 
-## Download this Project[:floppy_disk:](../../archive/master.zip)
+## Download this project[:floppy_disk:](../../archive/master.zip)
 You can use this "emoji"[:floppy_disk:](../../archive/master.zip) or this icon[![Download Icon](octicons/gif/cloud-download.gif)](../../archive/master.zip) as a download link
 
 ## Make modifications to my source
 * On Github[![Fork Project Icon (Mega)](octicons/gif/repo-forked_mega.gif)](../../fork)
 
-  Make modifications by creating your own GitHub account and then ["forking"![Fork Project Icon](octicons/gif/repo-forked.gif) this project by clicking here](../../fork). You can let me know about updates and fixes you've created by doing what github calls a [pull request![Pull Request Icon](octicons/gif/git-pull-request.gif)](../../compare).  You can check if anyone has requested to [update your fork![Fork Project Icon](octicons/gif/repo-forked.gif)](../../pulls?q=is%3Apr) with THEIR modifications [here![Pull Request Icon](octicons/gif/git-pull-request.gif)](../../pulls?q=is%3Apr).
+  Make modifications by creating your own GitHub account and then ["forking"![Fork Project Icon](octicons/gif/repo-forked.gif)](../../fork) this project by clicking that funky looking icon over there[![look left](octicons/gif/arrow-left.gif)] or maybe up there[![look up](octicons/gif/arrow-up.gif)]. You can let me know about updates and fixes you've created by doing what GitHub calls a pull request[![Pull Request Icon](octicons/gif/git-pull-request.gif)](../../compare).  You can check if anyone has requested to update your [fork![Fork Project Icon](octicons/gif/repo-forked.gif)](../../pulls?q=is%3Apr) with THEIR modifications [here![Pull Request Icon](octicons/gif/git-pull-request.gif)](../../pulls?q=is%3Apr).
 * Offline/via [e-mail![Email icon (Mega)](octicons/gif/mail-read_mega.gif)](../../issues/new)
 
   You can choose to "go old school" and just [download![Official Download Icon](octicons/gif/cloud-download.gif)](../../archive/master.zip), modify and then [send me the modifications via e-mail![email icon](octicons/gif/mail.gif)](../../issues/new), which you can do by [telling me your e-mail address![email icon](octicons/gif/mail.gif)](../../issues/new). The GitHub system will send me an e-mail, then I'll reply to the address you provide, so you know where to send the files. Of course, for your fork of the project, you can just edit the link that says "send me the modifications via e-mail" with [&lt;your@address.com&gt;](<your@address.com>), remembering to include the less than (&lt;) and greater than (&gt;) symbols around your actual address.
