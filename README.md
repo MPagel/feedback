@@ -12,8 +12,14 @@ This project was initially "forked"[![Fork Project Icon](octicons/gif/repo-forke
 
 Feel free to delete this top section of this file in your own fork[![Fork Project Icon](octicons/gif/repo-forked.gif)](../../fork).
 
-### Ask a question[![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues/new?title=Q%3A%20&labels%5B%5D=question&label-filter-field=question&label%5B%5D=question&issue%5Blabels%5D%5B%5D=question), give feedback[![Comment Icon (Mega)](octicons/gif/comment_mega.gif)](../../issues?issue[title]=Feedback&issue[labels][]=&issue[labels][]=duplicate&issue[data-name]=duplicate) or report a bug[![Bug Icon (Mega)](octicons/gif/bug_mega.gif)](../../issues/new?title=Bug%3A%20&labels%5B%5D=bug&data-name=bug&label-filter-field=bug)
+### Ask a question[![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues/new?title=Q%3A%20&labels%5B%5D=question&label-filter-field=question&label%5B%5D=question&issue%5Blabels%5D%5B%5D=question), give feedback[![Comment Icon (Mega)](octicons/gif/comment_mega.gif)](../../issues?utf8=%E2%9C%93&issue[title]=123&issue[body]=456&issue[labels][]=&issue[labels][]=invalid&milestone_title=) or report a bug[![Bug Icon (Mega)](octicons/gif/bug_mega.gif)](../../issues/new?title=Bug%3A%20&labels%5B%5D=bug&data-name=bug&label-filter-field=bug)
 Please [create a new **issue**![Info Icon](octicons/gif/info.gif)](../../issues/new) on this project.
+
+1 [![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues/new?utf8=%E2%9C%93&issue[title]=123&issue[body]=456&issue[labels][]=&issue[labels][]=invalid&milestone_title=)
+
+2 [![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues/new?utf8=%E2%9C%93&title=123&body=456&labels[]=&labels[]=invalid&milestone_title=)
+
+3 [![Question Mark Icon (Mega)](octicons/gif/question_mega.gif)](../../issues/new?utf8=%E2%9C%93&authenticity_token=blah&issue[title]=123&issue[body]=456&issue[labels][]=&issue[labels][]=invalid&milestone_title=)
 
 I'll try to respond as soon as I can get to it. if you have any further questions just respond in the thread created and I'll get back to you soon. Feel free to ask a question on any old issue too, even if you didn't create the issue and even if it is marked as closed.
 
