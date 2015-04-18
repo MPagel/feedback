@@ -5,7 +5,7 @@ This project was initially "forked"[![Fork Project Icon](octicons/gif/repo-forke
 
 **After** you fork[![Fork Project Icon](octicons/gif/repo-forked.gif)](../../fork) this project, you'll have to go to your settings dialogue[![Settings Icon](octicons/gif/tools.gif)](../../settings) and enable issue tracking by checking![Check Icon](octicons/gif/check.gif) the box:white_small_square: next to "Issues" under "Features"
 
-1. I use relative links in these descriptions whereever possible.
+1. I use relative links in these descriptions wherever possible.
 1. I use a combination of the [official ![GitHub](octicons/gif/logo-github_mega.gif) icons](http://octicons.github.com/) and helpful text to provide the end-user with exposure to the navigation icons they can expect on other GitHub pages that **don't** use this project as a base, while at the same time telling them what the little icon they're clicking on actually **means**.
   * Sometimes I violate my own rule and use a different GitHub icon that I think would be more helpful than their default one in a given circumstance.
 1. I provide instructions for you to fork this project either to use it as-is or to improve it. You are free to submit your changes back to me so I can incorporate your helpful modifications.
